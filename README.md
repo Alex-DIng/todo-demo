@@ -10,3 +10,5 @@
     `npm start`
 5. 启动客户端
     `cd .\todo_demo_web\ ` ，`npm install`,`npm start`
+
+6. 启动路径 `localhost:3000/home#/`
