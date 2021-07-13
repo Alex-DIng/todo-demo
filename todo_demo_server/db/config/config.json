@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "root",
-    "password": "xiao1201",
-    "database": "todo_development",
+    "password": "abcd.1234",
+    "database": "todo_api",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "time": "+08:00" 
