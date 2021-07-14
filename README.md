@@ -1,7 +1,7 @@
 # 启动方法
 
 1. 修改todo_demo_server/db/config/config.json
-2. `cd .\todo_demo_server\ ` ，`npm install`
+2. 编译项目 `cd .\todo_demo_server\ ` ，`npm install`
 3. 创建数据库
     `cd .\todo_demo_server\db\ `
     `npx sequelize db:migrate`
